@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+}
+.header {
+  background-color: #fff2f3;
+}
+.header .header-sections {
+  width: 1000px;
+  margin: 0 auto;
+}

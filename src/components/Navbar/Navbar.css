@@ -1,0 +1,33 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+.items {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+}
+.items .brand {
+  font-size: 30px;
+  margin-right: 100px;
+}
+.items li {
+  list-style: none;
+  padding: 7px;
+  font-size: 24px;
+}
+.items li a {
+  text-decoration: none;
+  color: #000;
+}
+.items .login a {
+  color: #96bb7c;
+}
+.items .join {
+  background-color: #96bb7c;
+  border-radius: 5px;
+  padding: 6px 8px;
+}
+.items .join a {
+  color: white;
+}

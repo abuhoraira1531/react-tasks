@@ -1,0 +1,53 @@
+.pakeges {
+  display: flex;
+  justify-content: space-around;
+  width: 1100px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.pakeges .line-1 {
+  width: 50px;
+  height: 5px;
+  background-color: #e74040;
+  border-radius: 2px;
+  margin: 30px 0;
+}
+.pakeges .pakeges-title {
+  font-size: 30px;
+  margin: 20px 0;
+}
+.pakeges .pakeges-description {
+  margin: 20px 0;
+}
+.pakeges .pakeges-btn {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  gap: 10px;
+  border: none;
+  color: #96bb7c;
+  background-color: white;
+}
+.pakeges .cards {
+  display: flex;
+  gap: 20px;
+}
+.pakeges .cards .card {
+  width: 180px;
+  background-color: #ffffff;
+  padding: 20px;
+  box-shadow: 10px 10px 10px gray;
+}
+.pakeges .cards .card img {
+  background-color: #96bb7c;
+  padding: 12px;
+  border-radius: 7px;
+  margin-bottom: 16px;
+}
+.pakeges .cards .card .line-2 {
+  width: 50px;
+  height: 3px;
+  background-color: #e74040;
+  border-radius: 2px;
+  margin: 10px 0;
+}
