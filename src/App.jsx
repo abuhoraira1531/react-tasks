@@ -2,6 +2,7 @@ import "./App.css";
 import Banner from "./components/Banner/Banner";
 import Navbar from "./components/Navbar/Navbar";
 import Pakeges from "./components/Pakeges/Pakeges";
+import Teams from "./components/Teams/Teams";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         </div>
       </div>
       <Pakeges />
+      <Teams></Teams>
     </>
   );
 }
