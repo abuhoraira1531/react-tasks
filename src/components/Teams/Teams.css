@@ -2,13 +2,13 @@
   width: 1000px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  margin: 30px auto;
+  margin: 50px auto;
   justify-content: center;
   gap: 20px;
 }
 .teams-description {
   width: 1000px;
-  margin: 20px auto;
+  margin: 80px auto;
 }
 .teams-description h2 {
   color: #96bb7c;

@@ -14,7 +14,7 @@ function App() {
         </div>
       </div>
       <Pakeges />
-      <Teams></Teams>
+      <Teams />
     </>
   );
 }
